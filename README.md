@@ -1,6 +1,6 @@
 # Charllote Embeded System Software
 
-Software for designing and testing Charlotte.
+Repo for designing and testing source code for Charlotte.
 
 ## Description
 
@@ -16,15 +16,15 @@ This project will contain testing software and functional software for Charlotte
 
 ### Installing
 
-- TO-DO -
+TO-DO
 
 ### Executing program
 
-- TO-DO -
+TO-DO
 
 ## Help
 
-- TO-DO -
+TO-DO 
 
 ## Authors
 
