@@ -1,4 +1,4 @@
-# Charllote Embeded System Software
+# Charlotte Embeded System Software
 
 Repo for designing and testing source code for Charlotte.
 
