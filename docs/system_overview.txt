@@ -1,0 +1,10 @@
+System Requirements:
+  - Must start recording data at power on
+  - Must run for some amount of time. This time should be easily changed. 
+  - Must poll power data from rectennas and time data
+  - Must send data to BUS over UART
+  - Must store data on SD card in SPI mode
+  - Must be able to reset clock if asked
+  - Must check if experiment is complete every loop
+  - Must connect SD card directly to BUS upon completion of experiment 
+  - Must remain in SD card release state after completion of experiment 
